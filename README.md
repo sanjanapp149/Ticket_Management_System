@@ -19,7 +19,7 @@ Python
 Django
 Django REST Framework
 JWT Authentication (SimpleJWT)
-PostgreSQL / SQLite
+SQLite
 ## Frontend
 React.js
 Redux Toolkit
