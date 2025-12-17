@@ -92,6 +92,11 @@ npm start
 Frontend will run on http://localhost:3000
 
 #### API Documentation
+## http://127.0.0.1:8000/swagger/	
+1) Interactive Swagger UI
+## http://127.0.0.1:8000/redoc/	
+2) Clean API documentation
+   
 POST  /api/auth/login/Login   (returns access & refresh) 
 POST  /api/auth/register/     (Register new user)
 GET   /api/auth/me/             (Get current user info)
