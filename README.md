@@ -15,16 +15,9 @@ Audit logging for all status changes
 Dockerized full-stack setup (Backend + Frontend + DB)
 ## Technology Used
 ## Backend
-Python
-Django
-Django REST Framework
-JWT Authentication (SimpleJWT)
-SQLite
+Python,Django,Django REST Framework,JWT Authentication (SimpleJWT),SQLite
 ## Frontend
-React.js
-Redux Toolkit
-Axios
-Tailwind / CSS3
+React.js,Redux Toolkit,Axios,Tailwind / CSS3
 ## Infrastructure
 Docker
 ## To run docker file
