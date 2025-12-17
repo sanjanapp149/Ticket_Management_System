@@ -27,7 +27,8 @@ Axios
 Tailwind / CSS3
 ## Infrastructure
 Docker
-Docker Compose
+## To run docker file
+docker-compose up --build
 ## Authentication & RBAC
 Roles
 1) Employee
